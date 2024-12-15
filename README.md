@@ -1,8 +1,5 @@
 # WEB ASSIGNMENT
 
-"This is a personal portfolio website showcasing artist Work, skills, and experience."
----
-
 ## Watch Demo
 [Watch on Google Drive](https://drive.google.com/file/d/1RCvhTNLMkeJ_tZkd25EUqo-9pT8z1Odc/view?usp=sharing)
 
